@@ -1,5 +1,10 @@
 # Full-Stack Hello World Application
 
+<img width="1920" height="1080" alt="Screenshot from 2025-10-18 16-50-48" src="https://github.com/user-attachments/assets/1f1474c5-5425-486b-bdcf-2ae5bb53ba5a" />
+
+<img width="1920" height="1080" alt="Screenshot from 2025-10-18 16-50-07" src="https://github.com/user-attachments/assets/1ceb9ff0-f0b4-49ac-96ca-8ed092389302" />
+
+
 This is a complete full-stack application with:
 - **Backend**: Node.js with Express.js API server
 - **Frontend**: React.js with modern UI and responsive design
