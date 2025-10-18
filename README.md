@@ -1,6 +1,7 @@
 # Full-Stack Hello World Application
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c90d9796-42e4-4540-ab01-5666906f1959" />
+<img width="825" height="666" alt="image" src="https://github.com/user-attachments/assets/919389a9-b150-424d-9ab6-dd334be418bb" />
+
 
 This is a complete full-stack application with:
 - **Backend**: Node.js with Express.js API server
