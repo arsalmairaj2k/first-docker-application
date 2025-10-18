@@ -2,10 +2,6 @@
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c90d9796-42e4-4540-ab01-5666906f1959" />
 
-
-<img width="1920" height="1080" alt="Screenshot from 2025-10-18 16-50-07" src="https://github.com/user-attachments/assets/1ceb9ff0-f0b4-49ac-96ca-8ed092389302" />
-
-
 This is a complete full-stack application with:
 - **Backend**: Node.js with Express.js API server
 - **Frontend**: React.js with modern UI and responsive design
